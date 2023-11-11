@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecbd31a5-c50c-44bc-b632-5c82f69ddefb": {
+      "ProjectGuid": "ecbd31a5-c50c-44bc-b632-5c82f69ddefb",
+      "DisplayName": "supermarket1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
